@@ -9,9 +9,13 @@ Aplikasi konversi metrik sederhana yang dibangun menggunakan **Jetpack Compose**
 - **Penanganan kesalahan** untuk input numerik yang tidak valid.
 - **Mendukung** konversi panjang dari milimeter hingga kilometer, konversi berat antara gram dan kilogram, serta konversi suhu antara Celsius dan Fahrenheit.
 
-## Cuplikan Layar
+## Rekaman Layar Penggunaan Aplikasi
 
-![Tampilan Aplikasi](assets/tampilan_utama.png)
+(https://drive.google.com/file/d/15D7XoFfRnlQqZ3PeFzdn5hC3VD5o74GD/view?usp=sharing)
+
+## File APK
+
+(https://drive.google.com/file/d/1Hd8xk-iITWNZX_-jLKHtMeDMgn6pXBXr/view?usp=drive_link)
 
 ## Persyaratan
 
